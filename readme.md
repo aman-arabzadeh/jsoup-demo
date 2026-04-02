@@ -1,0 +1,11 @@
+## [Jsoup](https://jsoup.org/) 
+
+```xml
+    <dependencies>
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.16.1</version>
+        </dependency>
+    </dependencies>
+```
